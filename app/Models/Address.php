@@ -19,6 +19,7 @@ class Address extends Model
         'state',
         'post_code',
         'zip_code',
+        
     ];
 
     public function order()
