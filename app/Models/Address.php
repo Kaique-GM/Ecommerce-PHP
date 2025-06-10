@@ -16,6 +16,7 @@ class Address extends Model
         'phone',
         'phone',
         'phone',
+        'phone',
         'street_address',
         'city',
         'state',
